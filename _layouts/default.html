@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<meta charset="utf-8">
+<title>{{ page.title }}</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="stylesheet" href={{ "/css/theme.css" | relative_url }}>
+
+<header class="block-table" role="banner">
+  <a class="block-flow pad-2 decor-none color-same" href={{ "/" | relative_url }} rel="home" accesskey="1">
+    <h1 class="m0 font-xxl font-700">Aaron Irwin</h1>
+    <span class="m0 font-m font-600">Saxophonist &amp; Composer</span>
+  </a>
+</header>
+
+<nav class="block-table m1 mb3">
+  <a class="m1" href={{ "/bio/" | relative_url }}>Bio</a>
+  <a class="m1" href="http://aaronirwin.bandcamp.com">Store</a>
+  <a class="m1" href={{ "/albums/" | relative_url }}>Albums</a>
+  <a class="m1" href={{ "/media/" | relative_url }}>Media</a>
+  <a class="m1" href={{ "/performances/" | relative_url }}>Performances</a>
+  <a class="m1" href={{ "/reviews/" | relative_url }}>Reviews</a>
+  <a class="m1" href={{ "/contact/" | relative_url }}>Contact</a>
+</nav>
+
+<main>
+  {{ content }}
+</main>
