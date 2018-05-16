@@ -29,7 +29,8 @@ html {
 body {
   box-sizing: border-box;
   margin: 0 auto;
-  max-width: 60em;
+  max-width: 62em;
+  padding: 1em;
 }
 
 img {
