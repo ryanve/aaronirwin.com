@@ -12,7 +12,6 @@
 :link,
 :visited {
   color: Crimson;
-  background: transparent;
 }
 
 :link:not(:hover) {
