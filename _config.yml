@@ -9,3 +9,5 @@ defaults:
 collections:
   albums:
     output: true
+plugins:
+  - jekyll-redirect-from
