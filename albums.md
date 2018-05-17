@@ -9,7 +9,7 @@ permalink: /albums/index.html
 {% assign albums = (site.albums | sort: "chronology") | reverse %}
 {% for item in albums %}
   <li class="block-flow">
-    <a href={{ item.url | relative_url }}>
+    <a href="{{ item.url | relative_url }}">
       <img
         alt="{{ item.title }}"
         width="480"
