@@ -1,6 +1,9 @@
 ---
 title: Ordinary Lives (2014)
 chronology: 5
+cover:
+  min: https://images-na.ssl-images-amazon.com/images/I/81G1gSjngyL._SL480_.jpg
+  max: https://images-na.ssl-images-amazon.com/images/I/81G1gSjngyL._SL960_.jpg
 ---
 
 # Ordinary Lives (2014)

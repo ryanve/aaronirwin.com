@@ -1,6 +1,9 @@
 ---
 title: Wobegon (2018)
 chronology: 7
+cover:
+  min: https://images-na.ssl-images-amazon.com/images/I/91EAx-2EUBL._SL480_.jpg
+  max: https://images-na.ssl-images-amazon.com/images/I/91EAx-2EUBL._SL960_.jpg
 ---
 
 # Wobegon (2018)

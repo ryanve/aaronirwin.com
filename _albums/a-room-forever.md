@@ -1,6 +1,9 @@
 ---
 title: A Room Forever (2015)
 chronology: 6
+cover:
+  min: https://f4.bcbits.com/img/a0176484273_16.jpg
+  max: https://f4.bcbits.com/img/a0176484273_10.jpg
 ---
 
 # A Room Forever (2015)
