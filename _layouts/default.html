@@ -25,3 +25,19 @@
 <main>
   {{ content }}
 </main>
+
+<script data-via="https://github.com/ryanve/templace/releases/tag/v0.1.0">
+!function(root, name, api) {
+  typeof module != "undefined" && module.exports ? module.exports = api : root[name] = api
+  typeof document == "undefined" || api()
+}(this, "templace", function() {
+  do {
+    var template = document.querySelector("template[data-templace]")
+    if (!template) break
+    if (!("content" in template)) continue
+    var fragment = template.content.cloneNode(true)
+    template.parentNode.insertBefore(fragment, template)
+    template.removeAttribute("data-templace")
+  } while (template)
+});
+</script>
