@@ -6,7 +6,7 @@ title: Wobegon (2018)
 
 *Wobegon* explores the line between composition and improvisation and group interplay within unusual song structures.
 
-**Available on [Spotify](https://open.spotify.com/album/5oZ2lQ4D4lDamA8dQObxsS), [iTunes](https://itunes.apple.com/us/album/wobegon-feat-aaron-irwin-mike-bagetta-jeff-hirshfield/1374467759), [Fresh Sound Records](https://www.freshsoundrecords.com/aaron-irwin-albums/6686-wobegon.html), [Amazon](https://www.amazon.com/Wobegon-Aaron-Irwin-Trio/dp/B07CJ256PM/)**
+**Available on [Spotify](https://open.spotify.com/album/5oZ2lQ4D4lDamA8dQObxsS), [iTunes](https://itunes.apple.com/us/album/wobegon-feat-aaron-irwin-mike-bagetta-jeff-hirshfield/1374467759), [Fresh Sound New Talent](https://www.freshsoundrecords.com/aaron-irwin-albums/6686-wobegon.html), [Amazon](https://www.amazon.com/Wobegon-Aaron-Irwin-Trio/dp/B07CJ256PM/)**
 
 <img
   alt="Wobegon"
@@ -37,7 +37,7 @@ Total time: 61min
 - Photography and design by Bryan Murray
 - Produced by Bruno Calvo
 - Executive producer: Jordi Pujol
-- Released in 2018 [on Fresh Sound Records](https://www.freshsoundrecords.com/aaron-irwin-albums/6686-wobegon.html)
+- Released in 2018 on [Fresh Sound New Talent](https://www.freshsoundrecords.com/aaron-irwin-albums/6686-wobegon.html)
 - Compositions by Aaron Irwin
 - Performers
   - Aaron Irwin (alto sax)
