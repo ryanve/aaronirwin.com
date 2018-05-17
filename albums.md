@@ -5,7 +5,7 @@ permalink: /albums/index.html
 
 # Albums
 
-<ol class="pad-0">
+<ol class="pad-0 grid-2">
 {% assign albums = (site.albums | sort: "chronology") | reverse %}
 {% for item in albums %}
   <li class="block-flow">

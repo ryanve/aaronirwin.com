@@ -123,3 +123,12 @@ figure {
 .float-none { float: none }
 .float-left { float: left; float: inline-start }
 .float-right { float: right; float: inline-end }
+
+@media (min-width: 20em) {
+  .grid-2 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: var(--space-3);
+    grid-row-gap: var(--space-3);
+  }
+}
