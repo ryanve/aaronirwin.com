@@ -18,6 +18,9 @@ title: A Room Forever (2015)
   width="600"
   height="600"
   src="https://bandcamp.com/EmbeddedPlayer/album=3438440579/size=large/bgcol=f5f5f5/linkcol=000000/artwork=none/transparent=true/">
+</iframe>
+
+<noscript>
   1. A Room Forever 03:34
   2. In The Dry 05:25
   3. The Salvation of Me 04:39
@@ -30,7 +33,7 @@ title: A Room Forever (2015)
   10. Hollow 06:01
   11. Time And Again 03:39
   12. The Mark 04:38
-</iframe>
+</noscript>
 
 ## Production
 
