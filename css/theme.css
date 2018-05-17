@@ -18,6 +18,10 @@
   text-decoration: none;
 }
 
+template {
+  display: none;
+}
+
 html {
   font-family: Arial, sans-serif;
   font-size: 1em;

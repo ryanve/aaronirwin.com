@@ -12,11 +12,13 @@ title: A Room Forever (2015)
   src="https://f4.bcbits.com/img/a0176484273_10.jpg"
   />
 
-<iframe
-  width="480"
-  height="120"
-  src="https://bandcamp.com/EmbeddedPlayer/album=3438440579/size=large/bgcol=f5f5f5/linkcol=000000/tracklist=false/artwork=none/transparent=true/">
-</iframe>
+<template data-templace>
+  <iframe
+    width="480"
+    height="120"
+    src="https://bandcamp.com/EmbeddedPlayer/album=3438440579/size=large/bgcol=f5f5f5/linkcol=000000/tracklist=false/artwork=none/transparent=true/">
+  </iframe>
+</template>
 
 ## Tracklist
 
