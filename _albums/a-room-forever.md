@@ -15,8 +15,8 @@ title: A Room Forever (2015)
 ## Tracklist
 
 <iframe
-  width="540"
-  height="540"
+  width="600"
+  height="600"
   src="https://bandcamp.com/EmbeddedPlayer/album=3438440579/size=large/bgcol=f5f5f5/linkcol=000000/artwork=none/transparent=true/">
   1. A Room Forever 03:34
   2. In The Dry 05:25
