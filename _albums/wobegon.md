@@ -1,6 +1,8 @@
 ---
-title: Wobegon
+title: Wobegon (2018)
 ---
+
+# Wobegon (2018)
 
 *Wobegon* explores the line between composition and improvisation and group interplay within unusual song structures.
 
