@@ -5,6 +5,7 @@ permalink: /albums/index.html
 
 # Albums
 
-{% for item in site.albums %}
+{% assign albums = (site.albums | sort: "chronology") | reverse %}
+{% for item in albums %}
   - [{{ item.title }}]({{ item.url | relative_url }})
 {% endfor %}
