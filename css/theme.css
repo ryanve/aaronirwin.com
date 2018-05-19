@@ -119,6 +119,8 @@ figure {
 .block-flow { display: block }
 .block-root { display: block; column-count: 1 }
 .block-table { display: table }
+.block-flex { display: flex }
+.flex-column { flex-direction: column }
 
 .float-none { float: none }
 .float-left { float: left; float: inline-start }
