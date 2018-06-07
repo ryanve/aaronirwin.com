@@ -1,19 +1,19 @@
 ---
-title: Plays the Music of Rufus Wainwright (2011)
+title: Vicious World - Plays the Music of Rufus Wainwright (2011)
 chronology: 3
 cover:
   min: https://f4.bcbits.com/img/a1107823176_16.jpg
   max: https://f4.bcbits.com/img/a1107823176_10.jpg
 ---
 
-# Plays the Music of Rufus Wainwright (2011)
+# Vicious World - Plays the Music of Rufus Wainwright (2011)
 
 A tribute to Rufus Wainwright
 
 **Available on [Bandcamp](https://aaronirwin.bandcamp.com/album/plays-the-music-of-rufus-wainwright)**
 
 <img
-  alt="Plays the Music of Rufus Wainwright"
+  alt="Vicious World - Plays the Music of Rufus Wainwright"
   width="960"
   height="960"
   src="https://f4.bcbits.com/img/a1107823176_10.jpg"
