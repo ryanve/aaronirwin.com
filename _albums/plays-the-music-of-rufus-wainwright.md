@@ -10,7 +10,7 @@ cover:
 
 A tribute to Rufus Wainwright
 
-**Available on [Bandcamp](https://aaronirwin.bandcamp.com/album/plays-the-music-of-rufus-wainwright)**
+**Available on [Bandcamp](https://aaronirwin.bandcamp.com/album/plays-the-music-of-rufus-wainwright)**, [iTunes](https://itunes.apple.com/us/album/vicious-world-plays-the-music-of-rufus-wainwright/449937012)
 
 <img
   alt="Vicious World - Plays the Music of Rufus Wainwright"
