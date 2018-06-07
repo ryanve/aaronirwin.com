@@ -6,9 +6,9 @@ cover:
   max: https://f4.bcbits.com/img/a1107823176_10.jpg
 ---
 
-# Vicious World - Plays the Music of Rufus Wainwright (2011)
+# Plays the Music of Rufus Wainwright (2011)
 
-A tribute to Rufus Wainwright
+Vicious World's tribute to Rufus Wainwright
 
 **Available on [Bandcamp](https://aaronirwin.bandcamp.com/album/plays-the-music-of-rufus-wainwright), [iTunes](https://itunes.apple.com/us/album/vicious-world-plays-the-music-of-rufus-wainwright/449937012)**
 
@@ -46,7 +46,7 @@ A tribute to Rufus Wainwright
 - Mixed and mastered by Scott Anderson
 - Album cover photo by Bryan Murray
 - Released on June 1, 2011
-- Performers
+- Performers: Vicious World
   - Aaron Irwin (alto sax, clarinet, flute)
   - Matthew McDonals (trombone)
   - Sebastian Noelle (guitar)
