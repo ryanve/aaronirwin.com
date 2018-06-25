@@ -67,7 +67,12 @@ figure {
   margin-right: auto;
 }
 
-blockquote, li, ol, ul, p {
+li {
+  margin-top: var(--space-1);
+  margin-bottom: var(--space-1);
+}
+
+blockquote, ol, ul, p {
   margin-top: var(--space-2);
   margin-bottom: var(--space-2);
 }
