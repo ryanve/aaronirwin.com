@@ -3,6 +3,18 @@
   --space-2: 1rem;
   --space-3: 1.5rem;
   --space-4: 2rem;
+
+  --rem-bass: 1rem;
+  --rem-baritone: 1.125rem;
+  --rem-tenor: 1.375rem;
+  --rem-alto: 1.625rem;
+  --rem-mezzo: 2rem;
+  --rem-soprano: 3rem;
+
+  --rem-h4: var(--rem-baritone);
+  --rem-h3: var(--rem-tenor);
+  --rem-h2: var(--rem-alto);
+  --rem-h1: var(--rem-mezzo);
 }
 
 :focus {
@@ -55,12 +67,22 @@ figure {
   margin-right: auto;
 }
 
-.font-bass { font-size: 1rem; line-height: normal }
-.font-baritone { font-size: 1.125rem; line-height: normal }
-.font-tenor { font-size: 1.375rem; line-height: normal }
-.font-alto { font-size: 1.625rem; line-height: normal }
-.font-mezzo { font-size: 2rem; line-height: normal }
-.font-soprano { font-size: 3rem; line-height: normal }
+h1, h2, h3, h4, h5, h6 {
+  font: inherit;
+  line-height: normal;
+}
+
+h4 { font-size: var(--rem-h4); font-weight: 700 }
+h3 { font-size: var(--rem-h3); font-weight: 700 }
+h2 { font-size: var(--rem-h2); font-weight: 700 }
+h1 { font-size: var(--rem-h1); font-weight: 400 }
+
+.font-bass { font-size: var(--rem-bass); line-height: normal }
+.font-baritone { font-size: var(--rem-baritone); line-height: normal }
+.font-tenor { font-size: var(--rem-tenor); line-height: normal }
+.font-alto { font-size: var(--rem-alto); line-height: normal }
+.font-mezzo { font-size: var(--rem-mezzo); line-height: normal }
+.font-soprano { font-size: var(--rem-soprano); line-height: normal }
 
 .font-400 { font-weight: 400 }
 .font-500 { font-weight: 500 }
