@@ -77,12 +77,12 @@ h3 { font-size: var(--rem-h3); font-weight: 700 }
 h2 { font-size: var(--rem-h2); font-weight: 700 }
 h1 { font-size: var(--rem-h1); font-weight: 400 }
 
-.font-bass { font-size: var(--rem-bass); line-height: normal }
-.font-baritone { font-size: var(--rem-baritone); line-height: normal }
-.font-tenor { font-size: var(--rem-tenor); line-height: normal }
-.font-alto { font-size: var(--rem-alto); line-height: normal }
-.font-mezzo { font-size: var(--rem-mezzo); line-height: normal }
-.font-soprano { font-size: var(--rem-soprano); line-height: normal }
+.font-bass { font-size: var(--rem-bass); line-height: calc(5/3) }
+.font-baritone { font-size: var(--rem-baritone); line-height: calc(5/3) }
+.font-tenor { font-size: var(--rem-tenor); line-height: calc(4/3) }
+.font-alto { font-size: var(--rem-alto); line-height: calc(4/3) }
+.font-mezzo { font-size: var(--rem-mezzo); line-height: 1.125 }
+.font-soprano { font-size: var(--rem-soprano); line-height: 1.125 }
 
 .font-400 { font-weight: 400 }
 .font-500 { font-weight: 500 }
