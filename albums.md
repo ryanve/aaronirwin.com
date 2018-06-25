@@ -10,7 +10,7 @@ permalink: /albums/index.html
 <ol class="pad-0 grid-2">
 {% assign albums = (site.albums | sort: "chronology") | reverse %}
 {% for item in albums %}
-  <li class="block-flow">
+  <li class="block-flow m0">
     <a class="block-flex flex-column" href="{{ item.url | relative_url }}">
       <img
         alt="{{ item.title }}"
