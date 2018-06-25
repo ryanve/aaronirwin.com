@@ -33,7 +33,7 @@ cover:
 
 - Recorded at Systems Two Recording Studio, Brooklyn, New York, on February 11 and 13, 2008
 - Executive producer: Jordi Pujol
-- Released in 2014 on [Fresh Sound New Talent](https://www.freshsoundrecords.com/aaron-irwin-albums/4977-blood-and-thunder-feat-chris-cheek.html)
+- Released in 2008 on [Fresh Sound New Talent](https://www.freshsoundrecords.com/aaron-irwin-albums/4977-blood-and-thunder-feat-chris-cheek.html)
 - Performers
   - Aaron Irwin (alto sax)
   - Chris Cheek (tenor sax)
