@@ -66,6 +66,9 @@ figure {
 .font-600 { font-weight: 600 }
 .font-700 { font-weight: 700 }
 
+.case-lower { text-transform: lowercase }
+.case-upper { text-transform: uppercase }
+
 .color-same { color: inherit }
 .decor-none { text-decoration: none }
 .line-single { line-height: 1 }
