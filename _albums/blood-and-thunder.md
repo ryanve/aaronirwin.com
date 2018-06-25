@@ -32,6 +32,7 @@ cover:
 ## Production
 
 - Recorded at Systems Two Recording Studio, Brooklyn, New York, on February 11 and 13, 2008
+- Mixed and mastered by Mike Marciano
 - Executive producer: Jordi Pujol
 - Released in 2008 on [Fresh Sound New Talent](https://www.freshsoundrecords.com/aaron-irwin-albums/4977-blood-and-thunder-feat-chris-cheek.html)
 - Performers
