@@ -55,12 +55,6 @@ figure {
   margin-right: auto;
 }
 
-.font-s { font-size: 1rem; line-height: normal }
-.font-m { font-size: 1.375rem; line-height: normal }
-.font-l { font-size: 1.625rem; line-height: normal }
-.font-xl { font-size: 2rem; line-height: normal }
-.font-xxl { font-size: 3rem; line-height: normal }
-
 .font-bass { font-size: 1rem; line-height: normal }
 .font-baritone { font-size: 1.125rem; line-height: normal }
 .font-tenor { font-size: 1.375rem; line-height: normal }
