@@ -5,7 +5,7 @@ permalink: /albums/index.html
 
 # Albums
 
-Stream on [Spotify](https://open.spotify.com/search/albums/%22aaron%20irwin%22) or [Bandcamp](https://aaronirwin.bandcamp.com)
+**Stream on [Spotify](https://open.spotify.com/search/albums/%22aaron%20irwin%22), [Bandcamp](https://aaronirwin.bandcamp.com)**
 
 <ol class="pad-0 grid-2">
 {% assign albums = (site.albums | sort: "chronology") | reverse %}
