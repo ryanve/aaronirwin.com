@@ -18,9 +18,6 @@ title: Performances
 - April 7th – Aaron Irwin Trio (Tour) – Bop Shop Records – Rochester, NY – 8pm
 - April 8th – Aaron Irwin Trio (Tour) – The Rex – Toronto, ON – TBA
 - October 5th – 6th – WeatherVest – Peterborough, NH – Electric Earth Concert Series – TBA
-- November 7th – Aaron Irwin Trio – Jazz Lunch – Knoxville, TN
-- November 8th – Aaron Irwin Trio – Barking Legs Theatre – Chattanooga, TN
-- Fake gig #2
 
 ## 2017
 
