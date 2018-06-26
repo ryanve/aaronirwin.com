@@ -20,7 +20,7 @@ title: Performances
 - October 5th – 6th – WeatherVest – Peterborough, NH – Electric Earth Concert Series – TBA
 - November 7th – Aaron Irwin Trio – Jazz Lunch – Knoxville, TN
 - November 8th – Aaron Irwin Trio – Barking Legs Theatre – Chattanooga, TN
-- December 25th - Aaron Irwin Sextet - Bethlehem, Jeruselum - 12pm
+- Fake gig #2
 
 ## 2017
 
