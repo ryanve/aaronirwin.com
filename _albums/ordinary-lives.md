@@ -8,7 +8,7 @@ cover:
 
 # Ordinary Lives (2014)
 
-<q>Irwin and the guys achieve the perfect balance, making eery, Twilit music that lingers long in the mind.  An understated little gem..</q> –Jazz Journal (Gary Booth)
+<q>Irwin and the guys achieve the perfect balance, making eery, Twilit music that lingers long in the mind.  An understated little gem.</q> –Jazz Journal (Gary Booth)
 
 **Available on [Spotify](https://open.spotify.com/album/5Eg6qgY7lFjj2CLgurRLMM), [iTunes](https://itunes.apple.com/us/album/aaron-irwin-ordinary-lives-feat-danny-fox-sebastian/821534539), [Fresh Sound New Talent](https://www.freshsoundrecords.com/aaron-irwin-albums/6080-ordinary-lives.html), [Amazon](http://www.amazon.com/Aaron-Irwin-Ordinary-Lives-Irwin/dp/B00HUCG2NU/)**
 
