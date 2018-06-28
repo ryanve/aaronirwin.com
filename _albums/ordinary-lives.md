@@ -36,7 +36,7 @@ cover:
 
 - Recorded at Systems Two Recording Studio, Brooklyn, New York, on May 23–24, 2013
 - Mixed and mastered by Mike Marciano
-- Cover art and photography by Brian Murphy
+- Cover art and photography by Bryan Murray
 - Produced by Aaron Irwin
 - Executive producer: Jordi Pujol
 - Released in 2014 on [Fresh Sound New Talent](https://www.freshsoundrecords.com/aaron-irwin-albums/6080-ordinary-lives.html)
