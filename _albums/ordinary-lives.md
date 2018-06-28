@@ -8,7 +8,7 @@ cover:
 
 # Ordinary Lives (2014)
 
-<q>I apologize for this brief intrusion, however, I am writing to let you know that regardless of all common sense, I have again spent time and effort in writing and recording some original jazz music which I would like to share with you. The album is called Ordinary Lives, and it is my third recording on [Fresh Sound New Talent](https://www.freshsoundrecords.com/12360-aaron-irwin-albums). I am really proud of how this came together and also think that the musicians helping me in this endeavor sound simply fantastic. It was a quite rewarding process and I would be honored if you were to check it out.</q> –Aaron Irwin
+<q>Irwin and the guys achieve the perfect balance, making eery, Twilit music that lingers long in the mind.  An understated little gem..</q> –Jazz Journal (Gary Booth)
 
 **Available on [Spotify](https://open.spotify.com/album/5Eg6qgY7lFjj2CLgurRLMM), [iTunes](https://itunes.apple.com/us/album/aaron-irwin-ordinary-lives-feat-danny-fox-sebastian/821534539), [Fresh Sound New Talent](https://www.freshsoundrecords.com/aaron-irwin-albums/6080-ordinary-lives.html), [Amazon](http://www.amazon.com/Aaron-Irwin-Ordinary-Lives-Irwin/dp/B00HUCG2NU/)**
 
