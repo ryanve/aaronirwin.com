@@ -75,10 +75,10 @@ title: Reviews
 #### Jazzwise Magazine *** (Robert Shore)
 > It's neither avant-garde nor self-consciously innovative, but that doesn't stop Aaron Irwin's second outing as leader from being a gently dazzling affair in a straight ahead kinda way. That's partly because, though still only 30, the US altoist is a composer of distinction, and the seven (out of nine) originals here all display an admirable fund of melodic invention...
 
-#### [Blogcritics Magazine](https://blogcritics.org) (Jordan Richardson)
+#### Blogcritics Magazine (Jordan Richardson)
 > Blood and Thunder is a courageous and crisp jazz record. It is appealing, absorbing, and affectionate. Irwin's command over the music is immaculate, as he leads his group through his harmonious universe with the style and grace of a truly great musician. His original compositions are astonishing in their beauty and his work with a pair of classics is similarly stunning.
 
-#### [Irish Times](https://www.irishtimes.com) **** (Ray Comiskey)
+#### Irish Times **** (Ray Comiskey)
 > A gifted crafsman, Irwin, as composer, soloist and leader, defines this impressive album.
 
 #### IMPROVIJAZZATION Nation (Rotcod Zzaj)
