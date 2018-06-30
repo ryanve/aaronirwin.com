@@ -9,11 +9,11 @@ Saxophonist, multi-woodwind player, and composer Aaron Irwin is from Decatur, IL
 Irwin holds a Bachelors degree in music from DePaul University in Chicago, Illinois and a Masters degree in music from the University of Miami in Miami, Florida. He's a dedicated educator with over 15 years of teaching experience and serves as an adjunct saxophone professor at Towson University in Baltimore, Maryland as well maintaining a full studio of students in New York City.
 
 <img
-  alt="Aaron Irwin at ShapeShifter Lab"
+  alt="Aaron Irwin at Shapeshifter"
+  width="960"
   sizes="100vw"
-  src="https://user-images.githubusercontent.com/949985/41942928-599e6bec-7956-11e8-8a48-c7fd5be4b022.jpeg"
+  src="https://user-images.githubusercontent.com/949985/42128949-85e98cb4-7c6b-11e8-8376-b45df7de7a1e.jpg"
   srcset="
-    https://user-images.githubusercontent.com/949985/41942928-599e6bec-7956-11e8-8a48-c7fd5be4b022.jpeg 640w,
-    https://user-images.githubusercontent.com/949985/41942928-599e6bec-7956-11e8-8a48-c7fd5be4b022.jpeg 960w
-    "
+    https://user-images.githubusercontent.com/949985/42128952-b7d238ca-7c6b-11e8-910a-b6116bcec6ed.jpg 480w,
+    https://user-images.githubusercontent.com/949985/42128949-85e98cb4-7c6b-11e8-8376-b45df7de7a1e.jpg 960w"
   />
