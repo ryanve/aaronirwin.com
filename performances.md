@@ -18,7 +18,9 @@ title: Performances
 - April 7th – Aaron Irwin Trio (Tour) – Bop Shop Records – Rochester, NY – 8pm
 - April 8th – Aaron Irwin Trio (Tour) – The Rex – Toronto, ON – TBA
 - July 30th - The Avenue Q 15th Anniversary Concert - 54 Below - NY, NY - 7pm & 9:30pm
+- August 23rd - Fat Cat Big Band - Swing 46 - NY, NY - 8:30pm
 - October 5th – 6th – WeatherVest – Peterborough, NH – Electric Earth Concert Series – TBA
+- October 11th - Aaron Irwin Trio - ShapeshifterLab - Brooklyn, NY - 7pm
 
 ## 2017
 
