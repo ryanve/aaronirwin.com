@@ -21,6 +21,7 @@ title: Performances
 - August 23rd - Fat Cat Big Band - Swing 46 - NY, NY - 8:30pm
 - October 5th – 6th – WeatherVest – Peterborough, NH – Electric Earth Concert Series – TBA
 - October 11th - Aaron Irwin Trio - ShapeshifterLab - Brooklyn, NY - 7pm
+- October 26th - Weather Vest - Pete's Candy Store - Brooklyn, NY - 10pm
 
 ## 2017
 
