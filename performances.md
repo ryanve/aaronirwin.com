@@ -7,6 +7,8 @@ title: Performances
 ## 2019
 
 - January 19th - Aaron Irwin Sextet - IBeam - Brooklyn, NY - 8pm
+- March 9th - WeatherVest - American Trombone Workshop - Washington D.C. - TBA
+- March 21st - Aaron Irwin Sextet - Sylvana - Brooklyn, NY - 6-8pm
 
 ## 2018
 
