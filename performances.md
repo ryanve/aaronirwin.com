@@ -4,6 +4,10 @@ title: Performances
 
 # Performances
 
+## 2019
+
+- January 19th - Aaron Irwin Sextet - IBeam - Brooklyn, NY - 8pm
+
 ## 2018
 
 - January 3rd — WeatherVest -Bierhaus – Manhattan, NY – 7pm – 10pm
