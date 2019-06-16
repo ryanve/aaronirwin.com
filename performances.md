@@ -11,6 +11,10 @@ title: Performances
 - March 8th Weather Vest - Towson University - Towson, MD
 - March 9th - Weather Vest - American Trombone Workshop - Washington D.C. - TBA
 - March 21st - Aaron Irwin Sextet - Silvana - Brooklyn, NY - 6-8pm
+- May 12th - Weather Vest - St. John's Lutheran - 10am
+- June 23rd - 54 Below Celebrates Amy Winehouse - 54 Below - 9:30p
+- July 12th - Jihye Lee Orchestra - Jazz Gallery - 7:30 - 10:30p
+- November 6th - Aaron Irwin Sextet - Rutgers University (Camden, NJ) - Mallery Concert Series
 
 ## 2018
 
