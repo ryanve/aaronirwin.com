@@ -17,6 +17,7 @@ title: Performances
 - September 8th - Aaron Irwin Sextet - Mirror in the Woods - Brooklyn, NY - 8p
 - September 15th - Aaron Irwin Sextet - Freddy's Bar and Backroom - Brooklyn, NY - 8:30p
 - October 10th - Aaron Irwin Sextet - Shapeshifter Lab - Brooklyn, NY - 7p
+- November 1st - Aaron Irwin Sextet - IBeam - Brooklyn, NY - 8pm
 - November 6th - Aaron Irwin Sextet - Rutgers University (Camden, NJ) - Mallery Concert Series
 - November 21st - Aaron Irwin Sextet - Silvana - Manhattan, NY - 6-8p
 
