@@ -10,12 +10,14 @@ title: Performances
 - February 27th - Aaron Irwin Sextet - Freddy's Bar - Brooklyn, NY - 8:30p
 - March 8th Weather Vest - Towson University - Towson, MD
 - March 9th - Weather Vest - American Trombone Workshop - Washington D.C. - TBA
-- March 21st - Aaron Irwin Sextet - Silvana - Manhattan, NY - 6-8pm
+- March 21st - Aaron Irwin Sextet - Silvana - Manhattan, NY - 6-8p
 - May 12th - Weather Vest - St. John's Lutheran - 10am
 - June 23rd - 54 Below Celebrates Amy Winehouse - 54 Below - 9:30p
 - July 12th - Jihye Lee Orchestra - Jazz Gallery - 7:30 - 10:30p
 - September 8th - Aaron Irwin Sextet - Mirror in the Woods - Brooklyn, NY - 8p
 - September 15th - Aaron Irwin Sextet - Freddy's Bar and Backroom - Brooklyn, NY - 8:30p
+- September 20th - The Chelsea Symphony - The DiMenna Center For Classical Music - 8p
+- September 21st - The Chelsea Symphony - The Dimenna Center For Classical Music - 8p
 - October 10th - Aaron Irwin Sextet - Shapeshifter Lab - Brooklyn, NY - 7p
 - November 1st - Aaron Irwin Sextet - IBeam - Brooklyn, NY - 8pm
 - November 6th - Aaron Irwin Sextet - Rutgers University (Camden, NJ) - Mallery Concert Series
