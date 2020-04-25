@@ -1,5 +1,8 @@
 markdown: kramdown
 permalink: pretty
+plugins:
+  - jekyll-redirect-from
+  - jekyll-sitemap
 defaults:
   -
     scope:
@@ -9,6 +12,3 @@ defaults:
 collections:
   albums:
     output: true
-plugins:
-  - jekyll-redirect-from
-  - jekyll-sitemap
