@@ -42,7 +42,7 @@ Release date: <time datetime="2021-01-22">January 22, 2021</time>
 - Release date: <time datetime="2021-01-22">January 22, 2021</time> on [Innova Recordings](https://www.innova.mu/albums/aaron-irwin/music-sextet)
 - Mixed and Mastered by [Ryan Streber](http://www.ryanstreber.com)
 - [Artwork](https://www.innova.mu/sites/default/files/album/files/726708605926-itunes-booklet.pdf) by [Bryan Murray](http://www.bryanmurray.net)
-- Innova Director: Philip Blackburns
+- Innova Director: Philip Blackburn
 - Operations Director: Chris Campbell
 - Publicist: Tim Igel
 - [Innova](https://www.innova.mu) is supported by an endowment from the [McKnight Foundation](https://www.mcknight.org)
