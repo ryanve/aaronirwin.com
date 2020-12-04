@@ -46,8 +46,7 @@ Release date: <time datetime="2021-01-22">January 22, 2021</time>
 - Operations Director: Chris Campbell
 - Publicist: Tim Igel
 - [Innova](https://www.innova.mu) is supported by an endowment from the [McKnight Foundation](https://www.mcknight.org)
-
-Special Thank You to JC Sanford
+- Special Thank You to JC Sanford
 
 ## Performers
 
