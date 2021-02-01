@@ -10,7 +10,7 @@ cover:
 
 <cite>Music for Sextet</cite> weaves interactions of kaleidoscopic colors and forms together with expressions of melancholy, effervescence, and at times, an anxiety sparked by cataclysmic confusion.
 
-[**Pre-sale available on innova.mu**](https://www.innova.mu/albums/aaron-irwin/music-sextet)
+**Available on [Innova](https://www.innova.mu/albums/aaron-irwin/music-sextet), [Apple](https://music.apple.com/us/album/music-for-sextet/1547274920), [Spotify](https://open.spotify.com/album/12u781WyobHqFPWpLc8aTR)**
 
 Release date: <time datetime="2021-01-22">January 22, 2021</time>
 
