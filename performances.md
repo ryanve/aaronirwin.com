@@ -7,7 +7,7 @@ title: Performances
 
 ## 2021
 
-- April 11th - Aaron Irwin Sextet - LiveStream Concert - Scholes Street Studio - Brooklyn, NY - 2p
+- April 11th - Aaron Irwin Sextet - Album release: LiveStream Concert - Scholes Street Studio - Brooklyn, NY - 2p
 - April 24th - WeatherVest - LiveStream Concert - Virtuostity - Boston, MA
 - August 19th - Mike Fahie Jazz Orchestra - Shandelee Jazz Festival - TBD
 
