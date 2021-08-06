@@ -11,6 +11,7 @@ title: Performances
 - April 17th - Tony Miceli/Aaron Irwin Duo - Live Stream Concert - Miceli Studio - 2p
 - April 24th - Weather Vest - LiveStream Concert - Virtuostity - Boston, MA
 - August 19th - Mike Fahie Jazz Orchestra - Shandelee Jazz Festival - TBD
+- October 14th - Aaron Irwin/Tony Miceli/Vinnie Sperrazza - Silvana - Manhattan, NY - 6-8p
 
 
 ## 2019
