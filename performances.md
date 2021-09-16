@@ -11,7 +11,18 @@ title: Performances
 - April 17th - Tony Miceli/Aaron Irwin Duo - Live Stream Concert - Miceli Studio - 2p
 - April 24th - Weather Vest - LiveStream Concert - Virtuostity - Boston, MA
 - August 19th - Mike Fahie Jazz Orchestra - Shandelee Jazz Festival - TBD
-- October 14th - Aaron Irwin/Tony Miceli/Vinnie Sperrazza - Silvana - Manhattan, NY - 6-8p
+- October 12th - Jamie Baum Septet + - Soapbox Music Gallery - Brookly, NY
+- October 14th - Jamie Baum Septet + - Outpost - Albuquerque, NM
+- October 15th - Jamie Baum Septet + - Angel City Jazz Festival - Los Angels, CA
+- October 16th - Jamie Baum Septet + - Athenaeum - San Diego, CA
+- October 17th - Jamie Baum Septet + - Earshot Jazz Festival - Seattle, WA
+- October 18th - Jamie Baum Septet + - Seasons Jazz - Yakima, WA
+- October 19th - Jamie Baum Septet + - Imagine Jazz - Spokane, WA
+- October 20th - Jamie Baum Septet + - Imagine Jazz - Spokane, WA
+- October 21st - Jamie Baum Septet + - Kuumbwa - Santa Cruz, CA
+- October 22nd - Jamie Baum Septet + - The 1905 - Portland, OR
+- October 23rd - Jamie Baum Septet + - Redwood Jazz Alliance - Arcata, CA
+- Nov. 5 - Jan. 2022 - Radio City Christmas Spectacular - Radio City Music Hall - NY, NY
 
 
 ## 2019
