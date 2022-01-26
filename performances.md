@@ -4,6 +4,11 @@ title: Performances
 
 # Performances
 
+## 2022
+
+- February 10th - Irwin/McDonald Quartet - Silvana - Harlem, NYC - 8-10p
+- April 21st - Irwin/Udden Quartet - Silvana - Harlem, NYC - 8-10p
+
 
 ## 2021
 
@@ -23,6 +28,7 @@ title: Performances
 - October 22nd - Jamie Baum Septet + - The 1905 - Portland, OR
 - October 23rd - Jamie Baum Septet + - Redwood Jazz Alliance - Arcata, CA
 - Nov. 5 - Jan. 2022 - Radio City Christmas Spectacular - Radio City Music Hall - NY, NY
+- December 3rd - Chelsea Symphoney - St. Paul's Church - Manhattan, NY - 8p
 
 
 ## 2019
