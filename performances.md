@@ -7,6 +7,8 @@ title: Performances
 ## 2022
 
 - February 10th - Irwin/McDonald Quartet - Silvana - Harlem, NYC - 8-10p
+- February 26th - Albany Symphony Orchestra - Troy Savings Bank Music Hall - Troy, NY - 7:30pm
+- February 27th - Albany Symphony Orchestra - Troy Savings Bank Music Hall - Troy, NY - 3pm
 - April 21st - Irwin/Udden Quartet - Silvana - Harlem, NYC - 8-10p
 
 
