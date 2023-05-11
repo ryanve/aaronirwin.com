@@ -21,13 +21,12 @@
   outline-color: currentColor;
 }
 
-:link,
-:visited {
-  color: Crimson;
+:any-link {
+  color: crimson;
 }
 
-:link:not(:hover) {
-  text-decoration: none;
+:any-link:hover {
+  text-decoration-style: double;
 }
 
 template {
