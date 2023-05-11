@@ -10,9 +10,9 @@ title: Performances
 - Aaron Irwin's Wobegon Trio - June 21st - Music Land - Bel Air, MD 
 - Aaron Irwin's Wobegon Trio - June 23rd - Barking Legs Theater
 - Aaron Irwin's Wobegon Trio - June 24th - East Village Arts - Birmingham, AL
-- Aaron Irwin's Wobegon Trio - June 25th - Petra's - Charlotte, NC
+- Aaron Irwin's Wobegon Trio - June 25th - [Petra's](https://www.eventbrite.com/e/wobegon-with-ghost-trees-tickets-630992404267) - Charlotte, NC
 - Aaron Irwin's Wobegon Trio - June 26th - Red Light Cafe - Atlanta, GA
-- Aaron Irwin's Wobegon Trio - June 28th - North Street Cabaret - Madison, WI
+- Aaron Irwin's Wobegon Trio - June 28th - [North Street Cabaret](https://www.northstreetcabaret.com/events/2023/6/28/aaron-erwin-trio-wobegon) - Madison, WI
 - Aaron Irwin's Wobegon Trio - July 1 - Icehouse - Minneapolis, MD 
 - Aaron Irwin's Wobegon Trio Recording!! - July 5 - Big Orange Sheep - Brooklyn, NY
 
