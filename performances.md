@@ -6,15 +6,15 @@ title: Performances
 
 ## 2023
 
-- Aaron Irwin's Wobegon Trio - June 20th - IBeam - Brooklyn, NY 
-- Aaron Irwin's Wobegon Trio - June 21st - Music Land - Bel Air, MD 
-- Aaron Irwin's Wobegon Trio - June 23rd - Barking Legs Theater
-- Aaron Irwin's Wobegon Trio - June 24th - East Village Arts - Birmingham, AL
+- Aaron Irwin's Wobegon Trio - June 20th - [IBeam](https://www.ibeambrooklyn.com) - Brooklyn, NY 
+- Aaron Irwin's Wobegon Trio - June 21st - [Music Land](https://www.musiclandstore.com/event/webegone-jazz-concerts) - Bel Air, MD 
+- Aaron Irwin's Wobegon Trio - June 23rd - [Barking Legs Theater](https://www.barkinglegs.org/ourevents/aaronirwintrio) - Chattanooga, TN
+- Aaron Irwin's Wobegon Trio - June 24th - [East Village Arts](https://www.evabham.org) - Birmingham, AL
 - Aaron Irwin's Wobegon Trio - June 25th - [Petra's](https://www.eventbrite.com/e/wobegon-with-ghost-trees-tickets-630992404267) - Charlotte, NC
-- Aaron Irwin's Wobegon Trio - June 26th - Red Light Cafe - Atlanta, GA
+- Aaron Irwin's Wobegon Trio - June 26th - [Red Light Cafe](http://redlightcafe.com/events/aaron-irwin-wobegon-trio-jun-26-2023) - Atlanta, GA
 - Aaron Irwin's Wobegon Trio - June 28th - [North Street Cabaret](https://www.northstreetcabaret.com/events/2023/6/28/aaron-erwin-trio-wobegon) - Madison, WI
-- Aaron Irwin's Wobegon Trio - July 1 - Icehouse - Minneapolis, MD 
-- Aaron Irwin's Wobegon Trio Recording!! - July 5 - Big Orange Sheep - Brooklyn, NY
+- Aaron Irwin's Wobegon Trio - July 1 - [Icehouse](https://www.icehousempls.com/events/2023/wobegonjuly1) - Minneapolis, MN
+- Aaron Irwin's Wobegon Trio Recording!! - July 5 - [Big Orange Sheep](https://www.bigorangesheep.com) - Brooklyn, NY
 
 ## 2022
 
