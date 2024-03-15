@@ -48,16 +48,22 @@ body {
   padding: 1em;
 }
 
+.square {
+  position: relative;
+  padding: 100% 0 0 0;
+}
+
+.omg {
+  object-fit: cover;
+  position: absolute;
+  height: 100%;
+  top: 0;
+}
+
 img {
   box-sizing: border-box;
   max-width: 100%;
   height: auto;
-}
-
-iframe {
-  border-style: none;
-  box-sizing: border-box;
-  max-width: 100%;
 }
 
 figure {
