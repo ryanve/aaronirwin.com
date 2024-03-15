@@ -2,8 +2,8 @@
 title: After (2024)
 chronology: 9
 cover:
-  min: https://github-production-user-asset-6210df.s3.amazonaws.com/949985/313323398-bbc07b86-1bbe-48e4-b9b3-d602ce3a480e.jpg
-  max: https://github-production-user-asset-6210df.s3.amazonaws.com/949985/313323398-bbc07b86-1bbe-48e4-b9b3-d602ce3a480e.jpg
+  min: https://github.com/ryanve/aaronirwin.com/assets/949985/bbc07b86-1bbe-48e4-b9b3-d602ce3a480e
+  max: https://github.com/ryanve/aaronirwin.com/assets/949985/bbc07b86-1bbe-48e4-b9b3-d602ce3a480e
 ---
 
 # After (2024)
