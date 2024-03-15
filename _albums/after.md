@@ -16,7 +16,7 @@ cover:
   alt="(after)"
   width="960"
   height="972"
-  src="https://github-production-user-asset-6210df.s3.amazonaws.com/949985/313323398-bbc07b86-1bbe-48e4-b9b3-d602ce3a480e.jpg"
+  src="https://github.com/ryanve/aaronirwin.com/assets/949985/bbc07b86-1bbe-48e4-b9b3-d602ce3a480e"
   />
 
 ## Tracklist
