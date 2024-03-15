@@ -11,11 +11,11 @@ permalink: /albums/index.html
 {% assign albums = (site.albums | sort: "chronology") | reverse %}
 {% for item in albums %}
   <li class="block-flow m0">
-    <a class="block-flex flex-column" href="{{ item.url | relative_url }}">
+    <a class="block-flex flex-column square" href="{{ item.url | relative_url }}">
       <img
+        class="omg"
         alt="{{ item.title }}"
         width="480"
-        height="480"
         src="{{ item.cover.min }}" />
     </a>
   </li>
