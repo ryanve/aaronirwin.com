@@ -46,6 +46,7 @@ body {
   margin: 0 auto;
   max-width: 62em;
   padding: 1em;
+  overflow-wrap: anywhere;
 }
 
 .square {
@@ -155,6 +156,11 @@ h1 { font-size: var(--rem-h1); font-weight: 400 }
 .mr-auto { margin-right: auto }
 .mb-auto { margin-bottom: auto }
 
+.float-none { float: none }
+.float-left { float: left; float: inline-start }
+.float-right { float: right; float: inline-end }
+.flex-column { flex-direction: column }
+
 .inline-flow { display: inline }
 .inline-root { display: inline-block }
 .inline-table { display: inline-table }
@@ -163,17 +169,22 @@ h1 { font-size: var(--rem-h1); font-weight: 400 }
 .block-root { display: block; column-count: 1 }
 .block-table { display: table }
 .block-flex { display: flex }
-.flex-column { flex-direction: column }
 
-.float-none { float: none }
-.float-left { float: left; float: inline-start }
-.float-right { float: right; float: inline-end }
+.grid { 
+  display: grid;  
+}
+
+.gap {
+  grid-column-gap: var(--space-3);
+  grid-row-gap: var(--space-3);
+}
+
+.repeat {
+  grid-template-columns: repeat(1, 1fr);
+}
 
 @media (min-width: 20em) {
-  .grid-2 {
-    display: grid;
+  .repeat {
     grid-template-columns: repeat(2, 1fr);
-    grid-column-gap: var(--space-3);
-    grid-row-gap: var(--space-3);
   }
 }
