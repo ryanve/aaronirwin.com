@@ -21,10 +21,11 @@ cover:
 
 ## Tracklist
 
-1. one
-2. two
-3. ...
-
+1. Recuerdo (after Edna St. Vincent Millay)
+2. Frederick Douglass (after Roberty Hayden)
+3. Five Bells (after Kenneth Slessor)
+4. The Hill (after Joshua Mehigan)
+5. 
 ## Production
 
 - Recorded at ... in ... on ...
