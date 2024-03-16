@@ -25,7 +25,8 @@ cover:
 2. Frederick Douglass (after Roberty Hayden)
 3. Five Bells (after Kenneth Slessor)
 4. The Hill (after Joshua Mehigan)
-5. 
+5. Pikes Peak (after Sarah Holland-Batt)
+6. When I Heard at the Close of the Day (after Walt Whitman)
 ## Production
 
 - Recorded at ... in ... on ...
