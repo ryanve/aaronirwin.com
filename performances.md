@@ -4,6 +4,17 @@ title: Performances
 
 # Performances
 
+## 2024
+
+- Aaron Irwin Trio - June 30th - Dance Hall - Kittery, ME
+- Aaron Irwin Trio - July 1st - Bop Shop - Rochester, NY
+- Aaron Irwin Trio - July 2nd - The Hargrove - Baltimore, MD
+- Aaron Irwin Trio - July 3rd - Rhizome - Washington D.C.
+- Aaron Irwin Trio - July 5th - Merriman's Playhouse - South Bend, IN
+- Aaron Irwin Trio - July 6th - Jackson Symphony Fundraiser - Jackson, MI
+- Aaron Irwin Trio - July 7th - Bob Stop - Cleveland, OH
+- Aaron Irwin Trio - July 8th - IBeam - Brooklyn, NY
+
 ## 2023
 
 - Aaron Irwin's Wobegon Trio - June 20th - [IBeam](https://www.ibeambrooklyn.com) - Brooklyn, NY 
