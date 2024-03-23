@@ -6,16 +6,16 @@ title: Performances
 
 ## 2024
 
-- Aaron Irwin Quartet - April 16th - Fiction - Brooklyn, NY
+- Aaron Irwin Quartet - April 16th - [Fiction](https://fictionbk.com/jazz-calendar) - Brooklyn, NY
 - Aaron Irwin Trio - April 17th - Towson University, Towson, MD
-- Aaron Irwin Trio - June 30th - Dance Hall - Kittery, ME
-- Aaron Irwin Trio - July 1st - Bop Shop - Rochester, NY
+- Aaron Irwin Trio - June 30th - [Dance Hall](https://www.thedancehallkittery.org/) - Kittery, ME
+- Aaron Irwin Trio - July 1st - [Bop Shop](https://bopshop.com/) - Rochester, NY
 - Aaron Irwin Trio - July 2nd - The Hargrove - Baltimore, MD
-- Aaron Irwin Trio - July 3rd - Rhizome - Washington D.C.
-- Aaron Irwin Trio - July 5th - Merriman's Playhouse - South Bend, IN
+- Aaron Irwin Trio - July 3rd - [Rhizome](https://www.rhizomedc.org/) - Washington D.C.
+- Aaron Irwin Trio - July 5th - [Merriman's Playhouse](https://www.merrimansplayhouse.org/) - South Bend, IN
 - Aaron Irwin Trio - July 6th - Jackson Symphony Fundraiser - Jackson, MI
-- Aaron Irwin Trio - July 7th - Bob Stop - Cleveland, OH
-- Aaron Irwin Trio - July 8th - IBeam - Brooklyn, NY
+- Aaron Irwin Trio - July 7th - [Bob Stop](https://www.themusicsettlement.org/bop-stop) - Cleveland, OH
+- Aaron Irwin Trio - July 8th - [IBeam](https://www.ibeambrooklyn.com/) - Brooklyn, NY
 
 ## 2023
 
