@@ -6,7 +6,7 @@ title: Performances
 
 ## 2024
 
-- Aaron Irwin Quartet - April 16th - [Fiction](https://fictionbk.com/jazz-calendar) - Brooklyn, NY
+- Aaron Irwin Quintet - April 16th - [Fiction](https://fictionbk.com/jazz-calendar) - Brooklyn, NY
 - Aaron Irwin Trio - April 17th - Towson University, Towson, MD
 - Aaron Irwin Trio - June 30th - [Dance Hall](https://www.thedancehallkittery.org/) - Kittery, ME
 - Aaron Irwin Trio - July 1st - [Bop Shop](https://bopshop.com/) - Rochester, NY
