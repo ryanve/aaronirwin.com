@@ -16,6 +16,7 @@ title: Performances
 - Aaron Irwin Trio - July 6th - Jackson Symphony Fundraiser - Jackson, MI
 - Aaron Irwin Trio - July 7th - [Bob Stop](https://www.themusicsettlement.org/bop-stop) - Cleveland, OH
 - Aaron Irwin Trio - July 8th - [IBeam](https://www.ibeambrooklyn.com/) - Brooklyn, NY
+- Aaron Irwin Quintet - August 23rd - [Fiction](https://fictionbk.com/jazz-calendar) - Brooklyn, NY
 
 ## 2023
 
