@@ -13,7 +13,7 @@ title: Performances
 - Aaron Irwin and the Ailments - June 24th - [Young Ethel's](https://www.youngethels.com/) - Brooklyn, NY
 - Aaron Irwin Trio - June 30th - [Dance Hall](https://www.thedancehallkittery.org/) - Kittery, ME
 - Aaron Irwin Trio - July 1st - [Bop Shop](https://bopshop.com/) - Rochester, NY
-- Aaron Irwin Trio - July 2nd - The Hargrove - Baltimore, MD
+- Aaron Irwin Trio - July 2nd - [The Hargrove](https://www.instagram.com/hargrovebaltimore/) - Baltimore, MD
 - Aaron Irwin Trio - July 3rd - [Rhizome](https://www.rhizomedc.org/) - Washington D.C.
 - Aaron Irwin Trio - July 5th - [Merriman's Playhouse](https://www.merrimansplayhouse.org/) - South Bend, IN
 - Aaron Irwin Trio - July 6th - Jackson Symphony Fundraiser - Jackson, MI
