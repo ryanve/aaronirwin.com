@@ -10,7 +10,7 @@ title: Performances
 - Aaron Irwin Trio - April 17th - Towson University, Towson, MD
 - [The Chelsea Symphony](https://chelseasymphony.org/) - June 14th - DiMenna Center for Classical Music - NY, NY
 - [The Chelsea Symphony](https://chelseasymphony.org/) - June 15th - DiMenna Center for Classical Music - NY, NY
-- Aaron Irwin Quintet - June 24th - [Young Ethel's](https://www.youngethels.com/) - Brooklyn, NY
+- Aaron Irwin and the Ailments - June 24th - [Young Ethel's](https://www.youngethels.com/) - Brooklyn, NY
 - Aaron Irwin Trio - June 30th - [Dance Hall](https://www.thedancehallkittery.org/) - Kittery, ME
 - Aaron Irwin Trio - July 1st - [Bop Shop](https://bopshop.com/) - Rochester, NY
 - Aaron Irwin Trio - July 2nd - The Hargrove - Baltimore, MD
@@ -19,7 +19,9 @@ title: Performances
 - Aaron Irwin Trio - July 6th - Jackson Symphony Fundraiser - Jackson, MI
 - Aaron Irwin Trio - July 7th - [Bob Stop](https://www.themusicsettlement.org/bop-stop) - Cleveland, OH
 - Aaron Irwin Trio - July 8th - [IBeam](https://www.ibeambrooklyn.com/) - Brooklyn, NY
-- Aaron Irwin Quintet - August 23rd - [Fiction](https://fictionbk.com/jazz-calendar) - Brooklyn, NY
+- Aaron Irwin and the Ailments - July 21st - [Pete's Candy Store](https://www.petescandystore.com/calendar/) - Brooklyn, NY
+- Aaron Irwin and the Ailments - August 23rd - [Fiction](https://fictionbk.com/jazz-calendar) - Brooklyn, NY
+- Aaron Irwin and the Ailments - September 6th - [Silvana](http://silvana-nyc.com/index.php) - Harlem, NYC
 
 ## 2023
 
