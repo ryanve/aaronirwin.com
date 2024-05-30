@@ -8,8 +8,8 @@ title: Performances
 
 - Aaron Irwin Quintet - April 16th - [Fiction](https://fictionbk.com/jazz-calendar) - Brooklyn, NY
 - Aaron Irwin Trio - April 17th - Towson University, Towson, MD
-- [The Chelsea Symphony](https://chelseasymphony.org/) - June 14th - DiMenna Center for Classical Music - NY, NY
-- [The Chelsea Symphony](https://chelseasymphony.org/) - June 15th - DiMenna Center for Classical Music - NY, NY
+- [The Chelsea Symphony](https://chelseasymphony.org/concerts/) - June 14th - DiMenna Center for Classical Music - NY, NY
+- [The Chelsea Symphony](https://chelseasymphony.org/concerts/) - June 15th - DiMenna Center for Classical Music - NY, NY
 - Aaron Irwin and the Ailments - June 24th - [Young Ethel's](https://www.youngethels.com/) - Brooklyn, NY
 - Aaron Irwin Trio - June 30th - [Dance Hall](https://www.thedancehallkittery.org/) - Kittery, ME
 - Aaron Irwin Trio - July 1st - [Bop Shop](https://bopshop.com/) - Rochester, NY
