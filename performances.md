@@ -20,8 +20,11 @@ title: Performances
 - Aaron Irwin Trio - July 7th - [Bob Stop](https://www.themusicsettlement.org/bop-stop) - Cleveland, OH
 - Aaron Irwin Trio - July 8th - [IBeam](https://www.ibeambrooklyn.com/) - Brooklyn, NY
 - Aaron Irwin and the Ailments - July 21st - [Pete's Candy Store](https://www.petescandystore.com/calendar/) - Brooklyn, NY
-- Aaron Irwin and the Ailments - August 23rd - [Fiction](https://fictionbk.com/jazz-calendar) - Brooklyn, NY
-- Aaron Irwin and the Ailments - September 6th - [Silvana](http://silvana-nyc.com/index.php) - Harlem, NYC
+- Banda Nueva York - July 28th - Socrates Sculpture Park, Queens, NY
+- Aaron Irwin and The Big Show - August 23rd - [Fiction](https://fictionbk.com/jazz-calendar) - Brooklyn, NY
+- Aaron Irwin and The Big Show - September 6th - [Silvana](http://silvana-nyc.com/index.php) - Harlem, NYC
+- Mike Fahie Jazz Orchestra - September 29th - [Culture Lab](https://www.culturelablic.org/), Long Island City
+- Aaron Irwin and The Big Show - [Threes](https://threesbrewing.com/pages/public-events) - Brooklyn, NY
 
 ## 2023
 
