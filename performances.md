@@ -26,7 +26,8 @@ title: Performances
 - Mike Fahie Jazz Orchestra - September 29th - [Culture Lab](https://www.culturelablic.org/), Long Island City
 - Aaron Irwin and The Big Show - October 27th - [Threes](https://threesbrewing.com/pages/public-events) - Brooklyn, NY
 - Mike Fahie Jazz Orchestra - November 22nd - [Shapeshifter Lab](https://shapeshifterplus.org/event/mike-fahie/) - Brooklyn, NY
-- [The Chelsea Symphony](https://chelseasymphony.org/concerts/2024-2025/holiday/) - December 16th - St. Paul's Lutheran Church, Manhattan, NY
+- [The Chelsea Symphony](https://chelseasymphony.org/concerts/2024-2025/holiday/) - December 6th - St. Paul's Lutheran Church, Manhattan, NY
+- Aaron Irwin and The Big Show - December 30th - [Fiction](https://fictionbk.com/jazz-calendar) - Brooklyn, NY
 
 ## 2023
 
