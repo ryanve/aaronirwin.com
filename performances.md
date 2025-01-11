@@ -4,6 +4,7 @@ title: Performances
 
 # Performances
 
+
 ## 2025
 
 - Aaron Irwin and The Big Show - January 23rd - [DADA](https://dadabar.nyc/event/5811979/700542260/aaron-irwin-the-big-show) - Brooklyn, NY
