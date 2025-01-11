@@ -4,6 +4,13 @@ title: Performances
 
 # Performances
 
+## 2025
+
+- Aaron Irwin and The Big Show - January 23rd - [DADA](https://dadabar.nyc/event/5811979/700542260/aaron-irwin-the-big-show) - Brooklyn, NY
+- Hyeseon Hong Jazz Orchestra - March 2nd - [Drom](https://dromnyc.com/event/hyeseon-hong-jazz-orchestra/) - Manhattan, NY
+- Aaron Irwin and The Big Show - May 4th - [Fiction](https://fictionbk.com/) - Brooklyn, NY
+- Aaron Irwin and The Big Show - May 25th - [Fiction](https://fictionbk.com/) - Brooklyn, NY
+
 ## 2024
 
 - Aaron Irwin Quintet - April 16th - [Fiction](https://fictionbk.com/jazz-calendar) - Brooklyn, NY
