@@ -8,7 +8,9 @@ title: Performances
 ## 2025
 
 - Aaron Irwin and The Big Show - January 23rd - [DADA](https://dadabar.nyc/event/5811979/700542260/aaron-irwin-the-big-show) - Brooklyn, NY
+- Aaron Irwin and The Big Show - February 23rd - [Young Ethel's(https://www.youngethels.com/) - Brooklyn, NY
 - Hyeseon Hong Jazz Orchestra - March 2nd - [Drom](https://dromnyc.com/event/hyeseon-hong-jazz-orchestra/) - Manhattan, NY
+- Aaron Irwin and The Big Show - March 20th - [Pete's Candy Store(https://www.petescandystore.com/) - Brooklyn, NY
 - Aaron Irwin and The Big Show - May 4th - [Fiction](https://fictionbk.com/) - Brooklyn, NY
 - Aaron Irwin and The Big Show - May 25th - [Fiction](https://fictionbk.com/) - Brooklyn, NY
 
