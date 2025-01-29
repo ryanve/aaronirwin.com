@@ -11,6 +11,7 @@ title: Performances
 - Aaron Irwin and The Big Show - February 23rd - [Young Ethel's](https://www.youngethels.com/) - Brooklyn, NY
 - Hyeseon Hong Jazz Orchestra - March 2nd - [Drom](https://dromnyc.com/event/hyeseon-hong-jazz-orchestra/) - Manhattan, NY
 - Aaron Irwin and The Big Show - March 20th - [Pete's Candy Store](https://www.petescandystore.com/) - Brooklyn, NY
+- Aaron Irwin and The Big Show - April 10th - [DADA](https://dadabar.nyc/program) - Brooklyn, NY
 - Aaron Irwin and The Big Show - May 4th - [Fiction](https://fictionbk.com/) - Brooklyn, NY
 - Aaron Irwin and The Big Show - May 25th - [Fiction](https://fictionbk.com/) - Brooklyn, NY
 
