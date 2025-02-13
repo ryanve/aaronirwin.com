@@ -14,6 +14,10 @@ title: Performances
 - Aaron Irwin and The Big Show - April 10th - [DADA](https://dadabar.nyc/program) - Brooklyn, NY
 - Aaron Irwin and The Big Show - May 4th - [Fiction](https://fictionbk.com/) - Brooklyn, NY
 - Aaron Irwin and The Big Show - May 25th - [Fiction](https://fictionbk.com/) - Brooklyn, NY
+- Aaron Irwin Trio - August 9th - Rhizome - Washington, D.C.
+- Aaron Irwin Trio - August 11th - Little Jumbo - Ashville, NC
+- Aaron Irwin Trio - August 13th - eyedrum - Atlanta, GA
+- Aaron Irwin Trio - August 16th - TBD - Gainesvill, FL
 
 ## 2024
 
