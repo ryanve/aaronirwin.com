@@ -12,6 +12,7 @@ title: Performances
 - Hyeseon Hong Jazz Orchestra - March 2nd - [Drom](https://dromnyc.com/event/hyeseon-hong-jazz-orchestra/) - Manhattan, NY
 - Aaron Irwin and The Big Show - March 20th - [Pete's Candy Store](https://www.petescandystore.com/) - Brooklyn, NY
 - Aaron Irwin and The Big Show - April 10th - [DADA](https://dadabar.nyc/program) - Brooklyn, NY
+- Stacey Kent and Danilo Caymmi - A Tribute to Tom Jobim - April 12th [Town Hall](https://www.thetownhall.org/event/stacey-kent-danilo-caymmi-a-tribute-to-tom-jobim) - NY, NY
 - Aaron Irwin and The Big Show - May 4th - [Fiction](https://fictionbk.com/) - Brooklyn, NY
 - Aaron Irwin and The Big Show - May 25th - [Fiction](https://fictionbk.com/) - Brooklyn, NY
 - Aaron Irwin Trio - August 9th - Rhizome - Washington, D.C.
