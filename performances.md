@@ -11,6 +11,8 @@ title: Performances
 - Aaron Irwin and The Big Show - February 23rd - [Young Ethel's](https://www.youngethels.com/) - Brooklyn, NY
 - Hyeseon Hong Jazz Orchestra - March 2nd - [Drom](https://dromnyc.com/event/hyeseon-hong-jazz-orchestra/) - Manhattan, NY
 - Aaron Irwin and The Big Show - March 20th - [Pete's Candy Store](https://www.petescandystore.com/) - Brooklyn, NY
+- Aaron Irwin Quartert - March 27th - [Cotton Club](https://www.instagram.com/cottonclub_soundshannam/?hl=en) - Seoul, Korea
+- Aaron Irwin Quartet - March 28th - [Boogie Woogie](https://www.instagram.com/boogiewoogieseoul/?hl=en) - Seoul, Korea
 - Aaron Irwin and The Big Show - April 10th - [DADA](https://dadabar.nyc/program) - Brooklyn, NY
 - Stacey Kent and Danilo Caymmi - A Tribute to Tom Jobim - April 12th - [Town Hall](https://www.thetownhall.org/event/stacey-kent-danilo-caymmi-a-tribute-to-tom-jobim) - NY, NY
 - Aaron Irwin and The Big Show - May 4th - [Fiction](https://fictionbk.com/) - Brooklyn, NY
@@ -18,7 +20,7 @@ title: Performances
 - Aaron Irwin Trio - August 9th - Rhizome - Washington, D.C.
 - Aaron Irwin Trio - August 11th - Little Jumbo - Ashville, NC
 - Aaron Irwin Trio - August 13th - eyedrum - Atlanta, GA
-- Aaron Irwin Trio - August 16th - TBD - Gainesvill, FL
+- Aaron Irwin Trio - August 16th - TBD - Gainesville, FL
 
 ## 2024
 
