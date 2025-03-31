@@ -17,6 +17,7 @@ title: Performances
 - Stacey Kent and Danilo Caymmi - A Tribute to Tom Jobim - April 12th - [Town Hall](https://www.thetownhall.org/event/stacey-kent-danilo-caymmi-a-tribute-to-tom-jobim) - NY, NY
 - Aaron Irwin and The Big Show - May 4th - [Fiction](https://fictionbk.com/) - Brooklyn, NY
 - Aaron Irwin and The Big Show - May 25th - [Fiction](https://fictionbk.com/) - Brooklyn, NY
+- Hyeseon Hong Jazz Orcherstra - June 18th - Linconln Park Live - Jersey City, NY
 - Aaron Irwin Trio - August 9th - Rhizome - Washington, D.C.
 - Aaron Irwin Trio - August 11th - Little Jumbo - Ashville, NC
 - Aaron Irwin Trio - August 13th - eyedrum - Atlanta, GA
