@@ -18,10 +18,17 @@ title: Performances
 - Aaron Irwin and The Big Show - May 4th - [Fiction](https://fictionbk.com/) - Brooklyn, NY
 - Aaron Irwin and The Big Show - May 25th - [Fiction](https://fictionbk.com/) - Brooklyn, NY
 - Hyeseon Hong Jazz Orcherstra - June 18th - Linconln Park Live - Jersey City, NY
-- Aaron Irwin Trio - August 9th - Rhizome - Washington, D.C.
-- Aaron Irwin Trio - August 11th - Little Jumbo - Ashville, NC
-- Aaron Irwin Trio - August 13th - eyedrum - Atlanta, GA
-- Aaron Irwin Trio - August 16th - TBD - Gainesville, FL
+- Aaron Irwin Trio - August 6th - [Three's Brewing](https://threesbrewing.com/pages/public-events) - Brooklyn, NY
+- Aaron Irwin Trio - August 8th - [An Die Musik](https://andiemusiklive.com/) - Baltimore, MD
+- Aaron Irwin Trio - August 9th - [Rhizome](https://www.rhizomedc.org/) - Washington, D.C.
+- Aaron Irwin Trio - August 10th - [Flat Iron](https://flatirongso.com/) - Greensboro, NC
+- Aaron Irwin Trio - August 11th - [Little Jumbo](https://littlejumbobar.com/) - Ashville, NC
+- Aaron Irwin Trio - August 12th - [Pilot Light](https://thepilotlight.com/) - Knoxville, TN
+- Aaron Irwin Trio - August 13th - [eyedrum](https://www.eyedrum.org/) - Atlanta, GA
+- Aaron Irwin - August 14th - [Kiwi Camera Shop](https://www.kiwicameraservice.com/) - Orlando, FL
+- Aaron Irwin - August 15th - [Bar Citra](https://www.citracollection.com/products/bar-citra) - St. Augustine, FL
+- Aaron Irwin Trio - August 16th - [Pulp Arts](https://www.pulparts.com/events) - Gainesville, FL
+- Aaron Irwin Trio - August 17th - [The Far Forest](https://www.thefarforest.com/) - Tampa, FL
 
 ## 2024
 
