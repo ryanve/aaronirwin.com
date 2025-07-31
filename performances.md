@@ -18,7 +18,7 @@ title: Performances
 - Aaron Irwin and The Big Show - May 4th - [Fiction](https://fictionbk.com/) - Brooklyn, NY
 - Aaron Irwin and The Big Show - May 25th - [Fiction](https://fictionbk.com/) - Brooklyn, NY
 - Hyeseon Hong Jazz Orcherstra - June 18th - Linconln Park Live - Jersey City, NY
-- Aaron Irwin Trio - August 6th - [Three's Brewing](https://threesbrewing.com/pages/public-events) - Brooklyn, NY
+- Aaron Irwin Trio - August 7th - [Three's Brewing](https://threesbrewing.com/pages/public-events) - Brooklyn, NY
 - Aaron Irwin Trio - August 8th - [An Die Musik](https://andiemusiklive.com/) - Baltimore, MD
 - Aaron Irwin Trio - August 9th - [Rhizome](https://www.rhizomedc.org/) - Washington, D.C.
 - Aaron Irwin Trio - August 10th - [Flat Iron](https://flatirongso.com/) - Greensboro, NC
