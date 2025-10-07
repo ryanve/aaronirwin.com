@@ -29,6 +29,8 @@ title: Performances
 - Aaron Irwin - August 15th - [Bar Citra](https://www.citracollection.com/products/bar-citra) - St. Augustine, FL
 - Aaron Irwin Trio - August 16th - [Pulp Arts](https://www.pulparts.com/events) - Gainesville, FL
 - Aaron Irwin Trio - August 17th - [The Far Forest](https://www.thefarforest.com/) - Tampa, FL
+- Aaron Irwin and The Big Show - October 26 - [Fiction](https://fictionbk.com/) - Brooklyn, NY
+- Brian Krock Woodwind Quintet - Noveber 13 - [Threes Brewing](https://threesbrewing.com/pages/gowanus) - Brooklyn, NY
 
 ## 2024
 
