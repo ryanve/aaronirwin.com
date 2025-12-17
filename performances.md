@@ -4,6 +4,12 @@ title: Performances
 
 # Performances
 
+## 2026
+
+- Aaron Irwin Trio - Jan. 10th @ 9:20pm - [APAP](https://apap365.org/)- Hilton Regent Parlor
+- Aaron Irwin and The Big Show - Feb. 15th - [Coffee Mob](https://www.instagram.com/coffeemob/?hl=en) - Brooklyn, NY
+- Aaron Irwin and The Big Show - March 15th - [Fiction](https://fictionbk.com/) - Brooklyn, NY
+
 
 ## 2025
 
