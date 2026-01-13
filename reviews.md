@@ -4,6 +4,14 @@ title: Reviews
 
 # Reviews
 
+## _(after)_
+
+#### New York City Jazz Record
+> Irwin’s music, like poetry, achieves its depth and complexity through the allusion and connotation, pointing a finger towards the great ineffable unknown.
+
+#### Textura
+> The confident-yet-relaxed and open-eared vibe of the performances speaks to the comfort level the trio has reached after playing together for a while, and Irwin's ninth album impresses for its originality, audacity, and imagination and for its adroit wedding of poetry and music.
+
 ## A Room Forever
 
 #### Wire Magazine (Stewart Smith)
