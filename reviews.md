@@ -4,13 +4,35 @@ title: Reviews
 
 # Reviews
 
+
+
 ## _(after)_
 
 #### New York City Jazz Record
 > Irwin’s music, like poetry, achieves its depth and complexity through the allusion and connotation, pointing a finger towards the great ineffable unknown.
 
+#### Jazzwise Magazine
+>Thoughtful and full of surprises
+
 #### Textura
 > The confident-yet-relaxed and open-eared vibe of the performances speaks to the comfort level the trio has reached after playing together for a while, and Irwin's ninth album impresses for its originality, audacity, and imagination and for its adroit wedding of poetry and music.
+
+#### Clarinet and Saxophone Magazine
+> Irwin’s soft, evocative tone on alto has a moving and lyrical effect. There is an intimacy to his sound (both here on alto and elsewhere on bass clarinet), as if he is beside you in a whispered private conversation.
+
+#### Clarinet and Saxophone Magazine
+> It is a music of contrast, ambiguity, fearlessness, lyricism, and beauty; produced by three musicians with sympathetic yet contrasting approaches. It is therefore a perfect response to the chosen poetry.
+
+#### Jazz Trail
+>The music in (after) is well played…give it a try, especially if you’re into American music or curious about how the trio explores the expressive parallels between poetry and music.
+
+####  Tinnitist
+> The groundbreaking N.Y.C. sax outlier reinvents jazz poetry with his daring, dynamic fusion of spoken-word passages & sharply stylized, artfully arranged compositions.
+
+#### Tweet Speak Poetry
+> _(after)_ blends and weaves poetry and music…demonstrating how music can be utilized to interpret and expand poetry, and how poetry can be utilized to illustrate music. Weaving the two together is something of an art form in itself.
+
+
 
 ## A Room Forever
 
@@ -34,6 +56,7 @@ title: Reviews
 
 #### All About Jazz (Bud Kopman)
 > The balance between the composed and improvised is finely wrought, making the line between them virtually invisible, with the only giveaway being larger structure which is uses the familiar recapitulation...The cumulative effect of A Room Forever is a quiet intensity, almost an eavesdropping of a private conversation. Emotionally complex while being aurally transparent, the music ends up feeling like an long-gone acquaintance who has been missed, but whose newly-found presence is immediately comfortable. Strange, but wonderful.
+
  
 ## Ordinary Lives
 
@@ -69,6 +92,7 @@ title: Reviews
 #### Allaboutjazz.com (Andrew J. Sammut)
 > Wainwright's music never lets too much light (or lightness) in, and Vicious World's probing solos and clever arrangements create a canvas from multiple shades of darkness. Let's just say the septet is moved to musical tears by the singer/songwriter's earnest melodies and bittersweet harmonies.
 
+
 ## Blood And Thunder
 
 #### Downbeat Magazine ***1/2 (John Ephland) Jan. 2009
@@ -97,6 +121,7 @@ title: Reviews
 
 #### AllAboutJazz.com (Dan McClenaghan)
 > This is an especially fine set by a talented up-and-coming artist who put together a great band for this outing.
+
 
 ## Into The Light
 
