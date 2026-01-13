@@ -8,7 +8,7 @@ title: Reviews
 
 ## _(after)_
 
-#### New York City Jazz Record
+#### New York City Jazz Record (Tom Greenland)
 > Irwin’s music, like poetry, achieves its depth and complexity through the allusion and connotation, pointing a finger towards the great ineffable unknown.
 
 #### Jazzwise Magazine
