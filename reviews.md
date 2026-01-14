@@ -11,11 +11,11 @@ title: Reviews
 #### New York City Jazz Record (Tom Greenland)
 > Irwin’s music, like poetry, achieves its depth and complexity through the allusion and connotation, pointing a finger towards the great ineffable unknown.
 
-#### Jazzwise Magazine
->Thoughtful and full of surprises
-
 #### Textura
 > The confident-yet-relaxed and open-eared vibe of the performances speaks to the comfort level the trio has reached after playing together for a while, and Irwin's ninth album impresses for its originality, audacity, and imagination and for its adroit wedding of poetry and music.
+
+#### Jazzwise Magazine
+>Thoughtful and full of surprises
 
 #### Clarinet and Saxophone Magazine
 > Irwin’s soft, evocative tone on alto has a moving and lyrical effect. There is an intimacy to his sound (both here on alto and elsewhere on bass clarinet), as if he is beside you in a whispered private conversation.
