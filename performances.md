@@ -18,7 +18,7 @@ title: Performances
 - Aaron Irwin Trio - June 30th - [Jazz on the Square](https://www.knoxjazz.org/upcoming-events_jos) - Knoxville, TN
 - Aaron Irwin and The Big Show - Aug. 30th [Fiction](https://fictionbk.com/jazz-calendar) - Brooklyn, NY
 - Aaron Irwin and The Big Show - Oct. 19th - [Fiction](https://fictionbk.com/jazz-calendar) - Brooklyn, NY
-- Aaron Irwin and The Big Show **CD Release** - Nov. 15th [Fiction](https://fictionbk.com/jazz-calendar) - Brooklyn, NY
+- Aaron Irwin and The Big Show **CD Release!!** - Nov. 15th [Fiction](https://fictionbk.com/jazz-calendar) - Brooklyn, NY
 
 
 ## 2025
