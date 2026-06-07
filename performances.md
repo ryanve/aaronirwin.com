@@ -9,6 +9,7 @@ title: Performances
 - Aaron Irwin Trio - Jan. 10th @ 9:20pm - [APAP](https://apap365.org/)- Hilton Regent Parlor
 - Aaron Irwin and The Big Show - Feb. 15th - [Coffee Mob](https://www.instagram.com/coffeemob/?hl=en) - Brooklyn, NY
 - Aaron Irwin and The Big Show - March 15th - [Fiction](https://fictionbk.com/) - Brooklyn, NY
+- North Eastern Symphonic Ensemble - June 14th - Carnegie Hall - Manhattan, NY
 - Aaron Irwin Trio - June 23rd - [IBeam](https://www.ibeambrooklyn.com/) - Brooklyn NY
 - Aaron Irwin/Mike Baggetta - June 25th - [The Hargrove](https://www.instagram.com/hargrovebaltimore/?hl=en) - Baltimore, MD
 - Aaron Irwin/Mike Baggetta - June 26th - [The Palisades Hub](https://www.palisadeshub.org/events) - Washington D.C.
