@@ -9,6 +9,16 @@ title: Performances
 - Aaron Irwin Trio - Jan. 10th @ 9:20pm - [APAP](https://apap365.org/)- Hilton Regent Parlor
 - Aaron Irwin and The Big Show - Feb. 15th - [Coffee Mob](https://www.instagram.com/coffeemob/?hl=en) - Brooklyn, NY
 - Aaron Irwin and The Big Show - March 15th - [Fiction](https://fictionbk.com/) - Brooklyn, NY
+- Aaron Irwin Trio - June 23rd - [IBeam](https://www.ibeambrooklyn.com/) - Brooklyn NY
+- Aaron Irwin/Mike Baggetta - June 25th - [The Hargrove](https://www.instagram.com/hargrovebaltimore/?hl=en) - Baltimore, MD
+- Aaron Irwin/Mike Baggetta - June 26th - [The Palisades Hub](https://www.palisadeshub.org/events) - Washington D.C.
+- Aaron Irwin Trio - June 27th - Merlin's Room - Brooklyn, NY
+- Aaron Irwin Trio - June 28th - [Gallery 5](https://gallery5arts.org/calendar) - Richmond, VA
+- Aaron Irwin Trio - June 29th - [Little Jumbo](https://littlejumbobar.com/events) - Asheville, NC
+- Aaron Irwin Trio - June 30th - [Jazz on the Square](https://www.knoxjazz.org/upcoming-events_jos) - Knoxville, TN
+- Aaron Irwin and The Big Show - Aug. 30th [Fiction](https://fictionbk.com/jazz-calendar) - Brooklyn, NY
+- Aaron Irwin and The Big Show - Oct. 19th - [Fiction](https://fictionbk.com/jazz-calendar) - Brooklyn, NY
+- Aaron Irwin and The Big Show **CD Release** - Nov. 15th [Fiction](https://fictionbk.com/jazz-calendar) - Brooklyn, NY
 
 
 ## 2025
